@@ -1,0 +1,4 @@
+#SampleID	cond1
+WT_Injury1	WT_Injury1
+WT_Injury2	WT_Injury2
+WT_Injury3	WT_Injury3
